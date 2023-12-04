@@ -1,3 +1,7 @@
+Клон репозитария для Эксперементов   
+Оригинальный репозитарий   
+https://github.com/geekan/MetaGPT   
+
 # MetaGPT: The Multi-Agent Framework
 
 <p align="center">
